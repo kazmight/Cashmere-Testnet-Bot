@@ -1,4 +1,4 @@
-## Cashmere TESTNET BOT
+## Cashmere Testnet Bot
 
 *A terminal-based dashboard for automating USDC bridging via Cashmere CCTP between Ethereum Sepolia and Layer 2 testnets (Optimism, Arbitrum, Base, Unichain).
 It comes with a real-time interactive UI, transaction logs, token balance tracking, and automated transaction handling with EIP-2612 permits.*
