@@ -27,7 +27,7 @@ Menu-driven workflow:
 **🔧 Requirements**
 - Node.js v18+
 - npm or yarn
-= A funded Ethereum Sepolia wallet with USDC test tokens
+= A funded Ethereum Sepolia,Optimism, Arbitrum, Base, Unichain wallet with USDC tokens
 
 ## Full Tutorial Join Telegram Channel : https://t.me/invictuslabs
 <img width="1471" height="816" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/b88c7a1f-cc97-4ef4-91f9-7c6fc750972d" />
