@@ -11,12 +11,12 @@ Menu-driven workflow:
 - Real-time wallet & token balance updates.
 
 ## Transaction logging with colored tags:
-**[SEND]** source → destination
-**[INFO]** details (amount, recipient, balances)
-**[GAS]** gas fees and msg.value
-**[PENDING]** pending transaction hash
-**[SUCCESS]** confirmed transaction with explorer link
-**[ERROR]** or **[FAILED]** if transaction reverts
+- **[SEND]** source → destination
+- **[INFO]** details (amount, recipient, balances)
+- **[GAS]** gas fees and msg.value
+- **[PENDING]** pending transaction hash
+- **[SUCCESS]** confirmed transaction with explorer link
+- **[ERROR]** or **[FAILED]** if transaction reverts
 
 Countdown delays with on-screen timers.
 Automatic signing of transferV2WithPermit and USDC permit messages.
